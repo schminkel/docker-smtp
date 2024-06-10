@@ -1,4 +1,4 @@
-FROM debian:stretch-slim
+FROM debian:buster-slim
 
 # Install exim4
 ENV DEBIAN_FRONTEND noninteractive
